@@ -4,9 +4,9 @@ import { Star, Heart } from "lucide-react"
 
 const menuItems = [
   {
-    name: "Coconut Rice",
-    description: "Traditional Colombian coconut rice with a hint of sweetness",
-    image: "/colombian-coconut-rice-in-a-bowl-with-coconut-flak.jpg",
+    name: "Sancocho",
+    description: "Traditional Colombian sancocho with chicken, potato, corn on the cob, vegetables and plantain",
+    image: "/sancocho.jpg",
     price: "$15.000",
     popular: true,
   },
@@ -41,7 +41,7 @@ const menuItems = [
   {
     name: "Arepa de Huevo",
     description: "Traditional arepa filled with egg and fried to perfection",
-    image: "/colombian-arepa-de-huevo-fried-corn-cake-with-egg.jpg",
+    image: "/arepas.jpg",
     price: "$5.000",
     popular: false,
   },
