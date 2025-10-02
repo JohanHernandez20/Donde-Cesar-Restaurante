@@ -39,7 +39,7 @@ const menuItems = [
     popular: true,
   },
   {
-    name: "Arepa de Huevo",
+    name: "Egg Arepa",
     description: "Traditional arepa filled with egg and fried to perfection",
     image: "/arepas.jpg",
     price: "$5.000",
